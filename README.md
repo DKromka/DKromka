@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-
-<img src="/images/Background (39).png">
 <!--
+<img src="/images/Background (39).png">
+
 
 <!--
 **DKromka/DKromka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
