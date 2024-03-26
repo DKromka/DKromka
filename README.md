@@ -1,5 +1,3 @@
-### Welcome to my page 👋
-
 <img src="/images/Github Background Advance.png">
 
 
