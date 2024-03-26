@@ -1,8 +1,6 @@
 ### Welcome to my page 👋
 
-
-<!--
-<img src="/images/Background (39).png">
+<img src="/images/Github Background Advance.png">
 
 
 <!--
